@@ -1,0 +1,15 @@
+button {
+    margin: 1px;
+    width: 10px;
+}
+
+.counter1 {
+    background: lightcoral;
+    width: 110px;
+    margin-left: 200px;
+}
+
+.counter2 {
+    background: lightcoral;
+    width: 110px;
+}
